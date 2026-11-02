@@ -1,4 +1,4 @@
-name: android-benchmark-diff
+dename: android-benchmark-diff
 description: Do diff against previous/reference benchmarkData.json and prepare Markdown table with results
 inputs:
   reference:
